@@ -1,6 +1,6 @@
 # WiFi-MAC-Scanner
 
-This lightweight Python tool quickly scans surrounding WiFi networks and extracts the MAC addresses of devices or access points. 🔍
+This lightweight Python tool quickly scans surrounding WiFi networks and extracts the MAC addresses of devices or access points.
 
 ## Key features
 * Scan for nearby WiFi networks within range.
@@ -10,5 +10,5 @@ This lightweight Python tool quickly scans surrounding WiFi networks and extract
 ## User manual
 1. Clone the repository to your computer:
    ```bash
-   git clone [https://github.com/qptqpt/WiFi-MAC-Scanner.git](https://github.com/Tên_Của_Bro/WiFi-MAC-Scanner.git)
+   git clone [https://github.com/qptqpt/WiFi-MAC-Scanner.git](https://github.com/qptqpt199-prog/WiFi-MAC-Scanner)
    cd WiFi-MAC-Scanner
