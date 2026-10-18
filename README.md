@@ -13,12 +13,7 @@ This lightweight Python tool quickly scans surrounding WiFi networks and extract
    git clone [https://github.com/qptqpt199-prog/WiFi-MAC-Scanner.git](https://github.com/qptqpt199-prog/WiFi-MAC-Scanner.git)
    cd WiFi-MAC-Scanner
 
-## Install the necessary libraries:
+## Install the necessary libraries - Execute command
 ```pip install -r requirements.txt
 
-## Run the script:
 ```python main.py
-
-## License
-The project is distributed under the GPLv3 license. See details in the file.
-
