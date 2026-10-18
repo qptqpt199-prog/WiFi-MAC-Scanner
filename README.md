@@ -14,4 +14,6 @@ This lightweight Python tool quickly scans surrounding WiFi networks and extract
    cd WiFi-MAC-Scanner
 
 ## Install the necessary libraries - Execute command
-```pip install -r requirements.txt - python main.py
+```bash
+pip install -r requirements.txt
+python main.py
