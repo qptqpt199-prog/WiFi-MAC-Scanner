@@ -14,10 +14,11 @@ This lightweight Python tool quickly scans surrounding WiFi networks and extract
    cd WiFi-MAC-Scanner
 
 ## Install the necessary libraries:
-pip install -r requirements.txt
+```pip install -r requirements.txt
 
 ## Run the script:
-python main.py
+```python main.py
 
+## License
 The project is distributed under the GPLv3 license. See details in the file.
 
